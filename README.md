@@ -1,4 +1,4 @@
-[![Mayank Patel](my-profile.jpg)](https://mayank-patel.netlify.app/#/)
+[![Mayank Patel](https://raw.githubusercontent.com/mayank091193/mayank091193/master/my-profile.jpg)](https://mayank-patel.netlify.app/#/)
 
 <p>
   <a href="https://twitter.com/mayank91193">

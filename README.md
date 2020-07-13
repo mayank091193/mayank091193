@@ -1,13 +1,13 @@
 <p>
   <a href="https://twitter.com/mayank91193">
     <img src="https://img.shields.io/twitter/follow/mayank91193?label=Follow%20%40mayank91193&style=social" alt="Twitter">
-  </a>&nbsp;
+  </a>&ensp;
   <a href="https://twitter.com/mayank91193">
     <img src="https://img.shields.io/reddit/user-karma/combined/mayank091193?style=social" alt="Reddit">
-  </a>&nbsp;
+  </a>&ensp;
   <a href="https://stackoverflow.com/users/4763038/mayank-patel?tab=profile">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/4763038?color=orange" alt="Stackoverflow">
-  </a>&nbsp;
+  </a>&ensp;
   <a href="https://dev.to/mayank091193">
     <img src="https://img.shields.io/badge/dev.to-Follow-lightgrey?style=social&logo=dev.to" alt="dev.to">
   </a>

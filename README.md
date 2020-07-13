@@ -1,3 +1,9 @@
+
+![Twitter Follow](https://img.shields.io/twitter/follow/mayank91193?label=Follow%20%40mayank91193&style=social)&nbsp;&nbsp;&nbsp;![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/mayank091193?style=social)&nbsp;&nbsp;&nbsp;![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/4763038?color=orange)&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/mayank091193">
+  <img src="https://img.shields.io/badge/dev.to-Follow-lightgrey?style=social&logo=dev.to" alt="dev.to">
+</a> 
+
 ### Hi there 👋, I am Mayank Patel. Known as mayank091193 on internet!
 
 

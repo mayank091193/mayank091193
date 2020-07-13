@@ -1,3 +1,5 @@
+[![Mayank Patel](/my-profile.jpg)](https://mayank-patel.netlify.app/#/)
+
 <p>
   <a href="https://twitter.com/mayank91193">
     <img src="https://img.shields.io/twitter/follow/mayank91193?label=Follow%20%40mayank91193&style=social" alt="Twitter">

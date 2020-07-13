@@ -2,7 +2,7 @@
   <a href="https://twitter.com/mayank91193">
     <img src="https://img.shields.io/twitter/follow/mayank91193?label=Follow%20%40mayank91193&style=social" alt="Twitter">
   </a>&ensp;
-  <a href="https://twitter.com/mayank91193">
+  <a href="https://www.reddit.com/user/mayank091193">
     <img src="https://img.shields.io/reddit/user-karma/combined/mayank091193?style=social" alt="Reddit">
   </a>&ensp;
   <a href="https://stackoverflow.com/users/4763038/mayank-patel?tab=profile">

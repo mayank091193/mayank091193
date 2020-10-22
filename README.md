@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 ### Hi there 👋, I am Mayank Patel. Known as mayank091193 on internet!
 
 

@@ -32,19 +32,15 @@
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mayank091193&theme=monokai&column=7"/>
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mayank091193&column=7"/>
 </div>
 
 ---
 
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
-  <p align="center">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mayank091193&theme=monokai&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank091193&theme=monokai&layout=compact" />
-  </p>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mayank091193&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank091193&layout=compact" />
 </div>
 
 ---
